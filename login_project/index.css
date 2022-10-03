@@ -1,0 +1,10 @@
+body {
+    background-color: gold;
+    text-align: center;
+}
+h1 {
+    padding-bottom: 10%;
+}
+h1, input, label {
+    text-align: center;
+}
